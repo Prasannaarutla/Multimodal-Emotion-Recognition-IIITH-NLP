@@ -1,0 +1,19 @@
+Speech Pipeline Results
+
+Model:
+BiLSTM with MFCC Features
+
+Dataset:
+TESS (Toronto Emotional Speech Set)
+
+Input Features:
+MFCC (100 x 40)
+
+Epochs:
+20
+
+Final Training Accuracy:
+99.78%
+
+Observation:
+Speech modality performed extremely well because emotional information is strongly present in vocal tone, pitch and intensity.

@@ -1,0 +1,19 @@
+Text Pipeline Results
+
+Model:
+BERT-based Text Classifier
+
+Dataset:
+TESS Transcript Words
+
+Input:
+Single-word transcripts extracted from filenames
+
+Epochs:
+10
+
+Final Training Accuracy:
+14.20%
+
+Observation:
+TESS transcripts are mostly semantically neutral single-word utterances, making standalone text emotion classification challenging.

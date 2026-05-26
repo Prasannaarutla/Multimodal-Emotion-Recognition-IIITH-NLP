@@ -1,0 +1,16 @@
+Fusion Pipeline Results
+
+Model:
+Multimodal Fusion Neural Network
+
+Input:
+Speech Predictions + Text Predictions
+
+Output Classes:
+7 Emotions
+
+Fusion Status:
+Working Successfully
+
+Observation:
+Fusion combines both speech and text representations to produce final multimodal emotion predictions.

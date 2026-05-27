@@ -202,7 +202,7 @@ Final predicted emotion among:
 |----------|-----------|
 | Speech Pipeline | ~99% |
 | Text Pipeline | ~14% |
-| Fusion Pipeline | Working Successfully |
+| Fusion Pipeline | ~92% |
 
 ---
 

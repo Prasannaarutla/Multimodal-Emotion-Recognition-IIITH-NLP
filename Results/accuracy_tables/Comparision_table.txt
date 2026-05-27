@@ -1,0 +1,4 @@
+Model Variant	Accuracy
+Speech-only Pipeline	~99%
+Text-only Pipeline	~14%
+Multimodal Fusion Pipeline	~92%

@@ -233,15 +233,40 @@ Multimodal-Emotion-Recognition/
 │   └── raw/
 │
 ├── models/
+│   │
 │   ├── speech_pipeline/
+│   │   ├── train.py
+│   │   ├── test.py
+│   │   ├── model.py
+│   │   ├── preprocess.py
+│   │   ├── prepare_data.py
+│   │   └── dataset.py
+│   │
 │   ├── text_pipeline/
+│   │   ├── train.py
+│   │   ├── test.py
+│   │   ├── model.py
+│   │   ├── preprocess.py
+│   │   ├── prepare_text_data.py
+│   │   └── dataset.py
+│   │
 │   └── fusion_pipeline/
+│       ├── train.py
+│       ├── test.py
+│       ├── model.py
+│       ├── fusion.py
+│       └── dataset.py
 │
-├── venv/
+├── Results/
+│   │
+│   ├── accuracy_tables/
+│   │
+│   └── plots/
 │
-└── README.md
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
-
 ---
 
 # How to Run
